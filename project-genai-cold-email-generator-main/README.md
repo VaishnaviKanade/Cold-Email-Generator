@@ -1,4 +1,5 @@
-📧 Resume-Based Cold Email Generator
+#📧 Resume-Based Cold Email Generator
+https://cold-email-generator-3-ioo5.onrender.com/
 
 Generate personalized, human-friendly cold emails from job postings and resumes in PDF/DOCX format.
 The tool extracts job details from any career page and crafts a professional cold email tailored to your skills, tone, and preferred length.
